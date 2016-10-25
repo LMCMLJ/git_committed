@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 # version 0.0
 # Written by Michael Calvey
 
