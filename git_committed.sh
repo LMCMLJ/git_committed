@@ -3,6 +3,7 @@
 # Written by Michael Calvey
 
 cd '/Users/michaelcalvey/Programming/projects/Bash/git_committed/'
-"cron" >> cronfile.txt
+text="cron"
+text >> cronfile.txt
 git add-commit -m "Adds cron"
 git push origin master
