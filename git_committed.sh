@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# version 0.0
+# version 0.2.0
 # Written by Michael Calvey
 
 cd '/home/calveym/Programming/projects/git_committed/'
